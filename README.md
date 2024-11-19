@@ -1,6 +1,6 @@
 TEI to ODF Converter
 
-This project provides a Python script to convert PDFs to TEI (Text Encoding Initiative) format using GROBID and then generate ODT (OpenDocument Text) files from the TEI content with proper formatting. The script handles headings, lists, tables, and references.
+This project provides a Python script to convert PDFs to TEI (Text Encoding Initiative) format using GROBID and then generate ODF (OpenDocument) files from the TEI content with crappy formatting. The script handles headings, lists, tables, and references.
 
 Prerequisites
 
